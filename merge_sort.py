@@ -1,6 +1,6 @@
 ################
 ###Merge Sort###
-##Jishnu C K###
+## Jishnu C K ##
 ################
 
 def mergesort(array_):
