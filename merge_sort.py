@@ -53,6 +53,6 @@ def merge(left,right):
     return c
 
 
-print(mergesort([4,3,7,6,3,2,1,2,0,2,3,3,56,433]))
+print(mergesort([4,3,7,6,3,2,1,2,0,2,3,3,56,433,10,23]))
 
 
