@@ -37,8 +37,6 @@ class Find_invs():
         counter_n = 0
         for k in range(0,len(left) + len(right)):
             
-           
-            
             if i >= len(left):
                 c[k] = right[j]
                 j+=1
