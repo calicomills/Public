@@ -5,7 +5,7 @@ import pdb
 from matplotlib import pyplot as plt
 
 # The algorithm starts at x=3
-cur_x = 3
+cur_x = -10
 # Learning rate
 rate = 0.01 
 # This tells us when to stop the algorithm
@@ -13,7 +13,7 @@ rate = 0.01
 precision = 0.0000000001
 previous_step_size = 1
 # Maximum number of iterations 
-max_iters = 10000
+max_iters = 500
 # Iteration counter 
 iters = 0 
 # Gradient of our function
